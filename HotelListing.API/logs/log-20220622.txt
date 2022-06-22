@@ -1,0 +1,5 @@
+2022-06-22 07:13:06.887 +01:00 [INF] Now listening on: https://localhost:5001
+2022-06-22 07:13:06.961 +01:00 [INF] Now listening on: http://localhost:5000
+2022-06-22 07:13:06.971 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-22 07:13:06.972 +01:00 [INF] Hosting environment: Development
+2022-06-22 07:13:06.973 +01:00 [INF] Content root path: C:\Users\dp161\Desktop\C#\HotelListing.API\HotelListing.API\
